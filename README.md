@@ -7,11 +7,11 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Current version: **Glance 0.19.1** — [Glance-v0.19.1.dmg](https://github.com/AmritusG/glance-releases/releases/download/v0.19.1/Glance-v0.19.1.dmg) ([SHA-256](https://github.com/AmritusG/glance-releases/releases/download/v0.19.1/Glance-v0.19.1.dmg.sha256), [release notes](https://github.com/AmritusG/glance-releases/releases/tag/v0.19.1))
+Current version: **Glance 0.19.2** — [Glance-v0.19.2.dmg](https://github.com/AmritusG/glance-releases/releases/download/v0.19.2/Glance-v0.19.2.dmg) ([SHA-256](https://github.com/AmritusG/glance-releases/releases/download/v0.19.2/Glance-v0.19.2.dmg.sha256), [release notes](https://github.com/AmritusG/glance-releases/releases/tag/v0.19.2))
 
 All previous versions are available on the [Releases tab](../../releases).
 
-Known issue in 0.19.1 (and 0.19.0): dropping a file can crash Glance when the app it was dragged from quits right after the drop (Finder drags are unaffected). See [the issue](../../issues/1).
+Known issue in 0.19.2 (and 0.19.0–0.19.1): dropping a file can crash Glance when the app it was dragged from quits right after the drop (Finder drags are unaffected). See [the issue](../../issues/1).
 
 ## What it is
 
